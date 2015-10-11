@@ -3,154 +3,154 @@
 var playlist = [
 	{
 		"song"    : "Hello, world!",
-		"album"   : "収録曲",
+		"album"   : "Kekkai Sensen",
 		"artist"  : "BUMP OF CHICKEN",
 		"artwork" : "http://www.bumpofchicken.com/helloworld_colony/images/jkt03.jpg",
 		"mp3"     : "music/chicken.mp3"
 	},
 	{
 		"song"    : "Boku No Kotoba Dewa Nai Kore wa Bokutachi No Kotoba",
-		"album"   : "Boku No Kotoba Dewa Nai Kore wa Bokutachi No Kotoba",
+		"album"   : "Arslan Senki",
 		"artist"  : "UVERworld",
 		"artwork" : "http://www.c-k-jpopnews.fr/wp-content/uploads/60772_uverboku.jpg",
 		"mp3"     : "music/arslan.mp3"
 	},
 	{
 		"song"    : "Uragiri no yuuyake",
-		"album"   : "Intention",
+		"album"   : "Durarara!",
 		"artist"  : "THEATRE BROOK",
 		"artwork" : "http://www.nautiljon.com/images/people/00/87/mini/theatre_brook_8178.jpg?11351536791",
 		"mp3"     : "music/durarara_1.mp3"
 	},
 	{
 		"song"    : "Complication",
-		"album"   : "From Dusk Till Dawn",
+		"album"   : "Durarara!",
 		"artist"  : "ROOKIEZ is PUNK'D",
 		"artwork" : "http://www.nautiljon.com/images/people/00/53/mini/rookiez_is_punk_d_23235.jpg?10",
 		"mp3"     : "music/durarara_2.mp3"
 	},
 	{
 		"song"    : "Catal Rhythm",
-		"album"   : "Karma to Labyrinth",
+		"album"   : "Kuroko No Basket",
 		"artist"  : "GRANRODEO",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/85/mini/karma_to_labyrinth_56658.jpg?0",
 		"mp3"     : "music/kuroko_self.mp3"
 	},
 	{
 		"song"    : "Feed A",
-		"album"   : "Feed A",
+		"album"   : "God Eater",
 		"artist"  : "OLDCODEX",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/37/mini/feed_a_56373.jpg?0",
 		"mp3"     : "music/god_eater.mp3"
 	},
 	{
 		"song"    : "Closer",
-		"album"   : "ME! ME! ME!",
+		"album"   : "Naruto",
 		"artist"  : "Inoue Joe",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/03/mini/me_me_me_15830.jpg?1339942779",
 		"mp3"     : "music/naruto_joe.mp3"
 	},
 	{
 		"song"    : "Hikaru Nara",
-		"album"   : "光るなら",
+		"album"   : "Shigatsu Wa Kimi No Uso",
 		"artist"  : "Goose House",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/04/mini/hikaru_nara_53040.jpg?0",
 		"mp3"     : "music/shigatsu.mp3"
 	},
 	{
 		"song"    : "くちづけ Diamond",
-		"album"   : "くちづけ Diamond",
+		"album"   : "Yamada-Kun To 7-Nin No Majo",
 		"artist"  : "WEAVER",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/29/mini/kuchizuke_diamond_55392.jpg?0",
 		"mp3"     : "music/yamada.mp3"
 	},
 	{
 		"song"    : "Again",
-		"album"   : "Again",
+		"album"   : "Full Metal Alchemist",
 		"artist"  : "Yui",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/17/mini/again_17071.jpg?1345844886",
 		"mp3"     : "music/fma.mp3"
 	},
 	{
 		"song"    : "Imagination",
-		"album"   : "イマジネーション",
+		"album"   : "Haikyu!!",
 		"artist"  : "SPYAIR",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/23/mini/imagination_50532.jpg?0",
 		"mp3"     : "music/haikyu.mp3"
 	},
 	{
 		"song"    : "Wind",
-		"album"   : "Roundabout",
+		"album"   : "Naruto",
 		"artist"  : "Akeboshi",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/46/mini/roundabout_15664.jpg?0",
 		"mp3"     : "music/wind.mp3"
 	},
 	{
 		"song"    : "Perfect Time",
-		"album"   : "Nanatsu no Taizai - Original Soundtrack",
+		"album"   : "Nanatsu no Taizai",
 		"artist"  : "Sawano Hiroyuki",
 		"artwork" : "http://www.nautiljon.com/images/ost/00/97/mini/nanatsu_no_taizai_-_original_soundtrack_13279.jpg?11425222808",
 		"mp3"     : "music/perfect.mp3"
 	},
 	{
 		"song"    : "Lapis Lazuli",
-		"album"   : "D'AZUR",
+		"album"   : "Sword Art Online",
 		"artist"  : "Aoi Eir",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/76/mini/d_azur_55967.jpg?0",
 		"mp3"     : "music/lapis.mp3"
 	},
 	{
 		"song"    : "No pain, No game",
-		"album"   : "No pain, No game",
+		"album"   : "Btooom!",
 		"artist"  : "Nano",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/56/mini/no_pain_no_game_limited_pressing_44565.jpg?1422614918",
 		"mp3"     : "music/nano_pain.mp3"
 	},
 	{
 		"song"    : "Hero's Come Back!!",
-		"album"   : "Hero's Come Back!!",
+		"album"   : "Naruto",
 		"artist"  : "nobodyknows+",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/63/mini/hero_s_come_back_2036.jpg?1429276527",
 		"mp3"     : "music/naruto_heroes.mp3"
 	},		
 	{
 		"song"    : "IN MY WORLD",
-		"album"   : "From Dusk Till Dawn",
+		"album"   : "Ao No Exorcist",
 		"artist"  : "ROOKIEZ is PUNK'D",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/94/mini/from_dusk_till_dawn_43349.jpg?0",
 		"mp3"     : "music/blue_exorcist.mp3"
 	},
 	{
 		"song"    : "Kyouran Hey Kids!!",
-		"album"   : "Kyouran Hey Kids!!",
+		"album"   : "Noragami",
 		"artist"  : "THE ORAL CIGARETTES",
 		"artwork" : "http://a3.mzstatic.com/us/r30/Music6/v4/11/92/c0/1192c0b8-bb20-e450-a4ad-191f076379a4/cover170x170.jpeg",
 		"mp3"     : "music/noragami_aragato.mp3"
 	},		
 	{
 		"song"    : "Courage",
-		"album"   : "Harukarisk*Land",
+		"album"   : "Sword Art Online",
 		"artist"  : "Tomatsu Haruka",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/63/mini/courage_limited_anime_edition_53236.jpg?0",
 		"mp3"     : "music/courage.mp3"
 	},
 	{
 		"song"    : "Spirit Inspiration",
-		"album"   : "Silver Sun",
+		"album"   : "Zetsuen No Tempest",
 		"artist"  : "Nothing's Carved In Stone",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/43/mini/silver_sun_43834.jpg?1350666571",
 		"mp3"     : "music/tempest.mp3"
 	},
 	{
 		"song"    : "Unravel",
-		"album"   : "Fantastic Magic",
+		"album"   : "Tokyo Ghoul",
 		"artist"  : "TK [Ling tosite sigure]",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/39/mini/fantastic_magic_52193.jpg?1433701822",
 		"mp3"     : "music/tokyo_ghoul.mp3"
 	},
 	{
 		"song"    : "Goya no Machiawase",
-		"album"   : "Goya no Machiawase",
+		"album"   : "Noragami",
 		"artist"  : "Hello Sleepwalkers",
 		"artwork" : "http://www.nautiljon.com/images/anime/00/65/mini/noragami_2956.jpg?11443859489",
 		"mp3"     : "music/noragami.mp3"
@@ -171,14 +171,14 @@ var playlist = [
 	},
 	{
 		"song"    : "Gangsta : Soundtrack",
-		"album"   : "Gangsta - Drama CD 5",
+		"album"   : "Gangsta",
 		"artist"  : "Gangsta",
 		"artwork" : "http://www.nautiljon.com/images/ost/00/65/mini/gangsta_-_drama_cd_5_14856.jpg?11435947312",
 		"mp3"     : "music/gangsta_soundtrack.mp3"
 	},
 	{
 		"song"    : "Renegade",
-		"album"   : "Renegade",
+		"album"   : "Gangsta",
 		"artist"  : "R・O・N",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/18/mini/renegade_56681.jpg?0",
 		"mp3"     : "music/gangsta_op.mp3"
@@ -199,56 +199,56 @@ var playlist = [
 	},
 	{
 		"song"    : "Rashisha",
-		"album"   : "Aisura",
+		"album"   : "Barakamon",
 		"artist"  : "SUPER BEAVER",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/59/mini/aisuru_55295.jpg?0",
 		"mp3"     : "music/barakamon.mp3"
 	},
 	{
 		"song"    : "Papermoon",
-		"album"   : "PAPERMOON",
+		"album"   : "Soul Eater",
 		"artist"  : "Tommy heavenly6",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/96/mini/papermoon_13069.jpg?1360617939",
 		"mp3"     : "music/papermoon.mp3"
 	},
 	{
 		"song"    : "DO IT",
-		"album"   : "CRACK STAR FLASH",
+		"album"   : "Kuroko No Basket",
 		"artist"  : "GRANRODEO",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/24/mini/crack_star_flash_44542.jpg?0",
 		"mp3"     : "music/kuroko_doit.mp3"
 	},
 	{
 		"song"    : "Catal Rhythm",
-		"album"   : "Constrast Silver",
+		"album"   : "Kuroko No Basket",
 		"artist"  : "OLDCODEX",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/97/mini/contrast_silver_46479.jpg?1379621456",
 		"mp3"     : "music/kuroko_catal.mp3"
 	},
 	{
 		"song"    : "Sign",
-		"album"   : "FLOW ANIME BEST",
+		"album"   : "Naruto",
 		"artist"  : "FLOW",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/41/mini/flow_anime_best_34314.jpg?1439128293",
 		"mp3"     : "music/naruto_sign.mp3"
 	},
 	{
 		"song"    : "Ignite",
-		"album"   : "D'AZUR",
+		"album"   : "Sword Art Online",
 		"artist"  : "Aoi Eir",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/76/mini/d_azur_55967.jpg?0",
 		"mp3"     : "music/ignite.mp3"
 	},
 	{
 		"song"    : "Only my railgun",
-		"album"   : "Infinite Synthesis",
+		"album"   : "To Aru Kagaku no Railgun",
 		"artist"  : "fripSide",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/75/mini/infinite_synthesis_32057.jpg?0",
 		"mp3"     : "music/railgun.mp3"
 	},
 	{
 		"song"    : "Color",
-		"album"   : "Kimi Wo Mamoritai",
+		"album"   : "Freezing",
 		"artist"  : "MARiA",
 		"artwork" : "http://www.nautiljon.com/images/cd/00/45/mini/color_kimi_wo_mamoritai_freezing_intro_outro_theme_33354.jpg?1326669606",
 		"mp3"     : "music/color.mp3"
